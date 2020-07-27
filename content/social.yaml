@@ -1,0 +1,26 @@
+- name: linkedin
+  url: https://linkedin.com/in/username
+
+- name: twitter
+  url: https://twitter.com/username
+
+- name: facebook
+  url:
+
+- name: instagram
+  url:
+
+- name: github
+  url: https://github.com/username
+
+- name: goodreads
+  url: https://www.goodreads.com/review/list/77390695
+
+- name: youtube
+  url:
+
+- name: medium
+  url:
+
+- name: strava
+  url: http://www.strava.com

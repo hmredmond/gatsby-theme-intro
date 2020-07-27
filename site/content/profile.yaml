@@ -1,0 +1,32 @@
+- profile:
+  initials: HR
+  name: Hannah Redmond
+  email: hmredmond@hotmail.com
+  profession: Front End Developer
+  image: images/profile.png
+  location: Cheltenham, UK
+  relocation: false
+  company: Velo Payments
+  for_hire: false
+  focus: Learning Gatsby
+  focus_url: https://gatsbyjs.org
+  about: |
+    A highly motivated, hard working and enthusiastic lead front end developer with seventeen years’ commercial experience working in software and web development.
+
+    Principal skills offered include excellent front end development skills using the latest front end technologies. Proven abilities in communication, teamwork, problem solving, time management and sharing knowledge and skills having worked on a large number of diverse projects.
+
+    Now specialised in the field of user interface development working closely with user experience and design teams to produce high quality and technically proficient accessible web applications and sites.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - Accessibility
+  tools:
+    - React
+    - VSCode
+    - Gatsby
+    - SCSS
+  budget:
+    currency: £
+    min: 5
+    max: 30
+    default: 10

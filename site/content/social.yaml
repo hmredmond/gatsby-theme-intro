@@ -10,23 +10,11 @@
 - name: instagram
   url:
 
-- name: dribbble
-  url:
-
-- name: behance
-  url:
-
-- name: producthunt
-  url:
-
 - name: github
   url: https://github.com/username
 
 - name: goodreads
-  url:
-
-- name: xing
-  url:
+  url: https://www.goodreads.com/review/list/77390695
 
 - name: youtube
   url:

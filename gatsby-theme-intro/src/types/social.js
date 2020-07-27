@@ -3,18 +3,15 @@ import { string, oneOf } from "prop-types"
 
 export const SocialType = {
   name: oneOf([
-    "behance",
-    "dribbble",
     "facebook",
     "github",
     "goodreads",
     "instagram",
     "linkedin",
     "medium",
-    "producthunt",
     "twitter",
     "youtube",
-    "xing",
+    "strava",
   ]),
   url: string,
 }
